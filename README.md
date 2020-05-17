@@ -1,3 +1,4 @@
+Clone and trimmed from https://github.com/udacity/sagemaker-deployment  
 # Machine Learning Deployment using AWS SageMaker
 
 Code and associated files 
